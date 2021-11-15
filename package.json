@@ -20,5 +20,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ducbh96",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducsd1524/react-native-dxmb-ui.git"
+  },
+  "keywords": [
+    "dxmb-ui"
+  ],
+  "bugs": {
+    "url": "https://github.com/ducsd1524/react-native-dxmb-ui/issues"
+  },
+  "homepage": "https://github.com/ducsd1524/react-native-dxmb-ui#readme"
 }
