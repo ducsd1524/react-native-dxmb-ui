@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { TextInputProps, TextInput as ReactNativeTextInput, StyleSheet } from 'react-native';
-import { borderTextInputDefault } from '../utilities/colors';
-import { styles } from '../utilities/styles';
+import { borderTextInputDefault } from './utilities/colors';
+import { styles } from './utilities/styles';
 
 interface Props extends TextInputProps {
     border?: boolean;

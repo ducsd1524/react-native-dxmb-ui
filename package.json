@@ -1,8 +1,8 @@
 {
   "name": "react-native-dxmb-ui",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "DXMB React Native Custom UI",
-  "main": "index.js",
+  "main": "index.ts",
   "dependencies": {
     "@types/react": "^17.0.34",
     "@types/react-native": "^0.66.4",
@@ -10,7 +10,8 @@
     "react": "^17.0.2",
     "react-native": "^0.66.3",
     "react-native-localize": "^2.1.5",
-    "react-native-modal": "^13.0.0"
+    "react-native-modal": "^13.0.0",
+    "react-native-vector-icons": "^9.0.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.34",
@@ -19,8 +20,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ducbh96",
-  "license": "MIT",
+  "author": "ducbh <ducsd.96@gmail.com>",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ducsd1524/react-native-dxmb-ui.git"

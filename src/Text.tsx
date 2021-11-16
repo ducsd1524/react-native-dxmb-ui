@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { TextProps, Text as ReactNativeText, TextStyle } from 'react-native';
-import { styles } from '../utilities/styles';
-import { translate } from '../i18n/translate';
+import { styles } from './utilities/styles';
+import { translate } from './i18n/translate';
 
 interface Props extends TextProps {
     style?: TextStyle;
