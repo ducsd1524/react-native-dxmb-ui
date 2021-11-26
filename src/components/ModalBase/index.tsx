@@ -1,6 +1,6 @@
 import * as React from 'react';
 import Modal from 'react-native-modal';
-import { ViewStyle, View, StyleSheet } from 'react-native';
+import { ViewStyle, View, StyleSheet, ScrollView } from 'react-native';
 import { deviceHeight, deviceWidth } from '../../utilities/styles';
 
 interface Props {
